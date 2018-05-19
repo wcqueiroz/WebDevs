@@ -6,7 +6,11 @@ Este repositório foi criado para gerenciar o código dos exercícios e projetos
 
 # Sobre o curso
 Em 2018 o curso estava disponível em https://br.udacity.com/course/full-stack-web-developer-nanodegree--nd004.
-Durante o curso utilizei linguagem de programação Python 3.6.4 para realizar os exercícios e projetos. Se você ainda não estiver familiarizado com o Python, não se preocupe, pois existem aulas com conteúdo direcionado aos iniciantes na linguagem.
+Durante o curso utilizei a linguagem de programação Python 3.6.4 para realizar os exercícios e projetos. Se você ainda não estiver familiarizado com o Python, não se preocupe, pois existem aulas com conteúdo direcionado aos iniciantes na linguagem.
 
 # Pré-requisitos para fazer o curso
 Conhecimento em HTML, CSS e JavaScript. Controle de versões no GIT
+
+# Projetos
+## P1 - Site de Trailer de Filmes
+Código server-side para exibir o Título, o Poster e o link para os Trailers de alguns filmes
