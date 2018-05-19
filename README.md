@@ -14,3 +14,6 @@ Conhecimento em HTML, CSS e JavaScript. Controle de versões no GIT
 # Projetos
 ## P1 - Site de Trailer de Filmes
 Código server-side para exibir o Título, o Poster e o link para os Trailers de alguns filmes
+
+# Cursos da Udacity que auxiliam na realização deste Nanodegree
+## Fundamentos da programação com Python
