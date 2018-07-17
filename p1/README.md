@@ -12,7 +12,7 @@ Será criado o arquivo fresh_tomatoes.html na pasta do projeto que apresentará 
 - Acesso a Internet
 
 ## Download do projeto
-No repositório [Github/WebDevs](https://github.com/wcqueiroz/WebDevs), clicar no botão "Clone or download", baixar ou clonar o projeto para o desktop, acessar a pasta p1 e executar o comando abaixo.
+No repositório [Github/WebDevs](https://github.com/wcqueiroz/WebDevs), clicar no botão "Clone or download", baixar ou clonar o projeto para o desktop, acessar a pasta p1 e executar o comando abaixo no terminal.
 
 ## Executando
 O comando abaixo cria o arquivo fresh_tomatoes.html
