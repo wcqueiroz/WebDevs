@@ -2,7 +2,7 @@ Programa Nanodegree Desenvolvedor Web Full-Stack
 ================================================
 
 # Finalidade
-Este repositório foi criado para gerenciar o código dos exercícios e projetos do Programa Nanodegree Desenvolvedor Web Full-Stack da Udacity realizado em 2018.
+Este repositório foi criado para gerenciar os códigos dos exercícios e projetos do Programa Nanodegree Desenvolvedor Web Full-Stack da Udacity realizado em 2018.
 
 # Sobre o curso
 Em 2018 o curso estava disponível em https://br.udacity.com/course/full-stack-web-developer-nanodegree--nd004.
