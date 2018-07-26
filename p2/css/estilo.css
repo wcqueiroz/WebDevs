@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+ {
+    color: #02b3e4;
+}
+h1, h3, p {
+    color: #2d3c49;
+}
+hr, h2 {
+    color: #7d97ad;
+}
+hr {
+    border-width: 3px;
+}
+p {
+    
+}
+img {
+
+}
