@@ -18,6 +18,9 @@ HTML, CSS, JavaScript, Python e Git.
 ## P1 - Site de Trailer de Filmes
 Código server-side para exibir o Título, o Poster e o Trailers de alguns filmes.
 
+## P2 - Site de Portifólio
+Código html, css e imagens para exibir o site de portifólio.
+
 # Cursos da Udacity que auxiliam na realização deste Nanodegree
 ## Fundamentos da programação com Python
 ## Writing READMEs
