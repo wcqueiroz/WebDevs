@@ -1,25 +1,32 @@
 * {
     box-sizing: border-box;
 }
+
 h1 {
     text-align: right;
 }
+
 h2 {
     margin: 1%;
 }
+
 h1, h3, p {
     color: #2d3c49;
 }
+
 hr, h2 {
     color: #7d97ad;
 }
+
 hr {
     border-width: 3px;
 }
+
 img {
     max-width: 100%;
     height: auto;
 }
+
 header {
     position: fixed;
     top: 0;
@@ -27,9 +34,11 @@ header {
     width: 100%;
     background-color: #ffffff;
 }
+
 div.cabecalho {
     min-height: 180px;
 }
+
 article {
     display: inline-block;
     max-width: 30%;
@@ -39,10 +48,12 @@ article {
     border: 0;
     padding: 0;
 }
+
 .logo {
     float: left;
     margin-right: 8px;
 }
+
 div.trabalhos-destaque {
     width: 100%;
     margin: 0;
