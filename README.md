@@ -23,4 +23,7 @@ Código html, css e imagens para exibir o site de portifólio.
 
 # Cursos da Udacity que auxiliam na realização deste Nanodegree
 ## Fundamentos da programação com Python
+## Introdução à Ciência da Computação
+## Linux Command Line Basics
+## Networking for Web Developers
 ## Writing READMEs
