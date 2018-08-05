@@ -22,7 +22,13 @@ GitHub é uma plataforma de hospedagem de código-fonte com controle de versão 
 ## P1 - Site de Trailer de Filmes
 Código server-side para exibir o Título, o Poster e o Trailers de alguns filmes.
 
-# Cursos gratuitos da Udacity que auxiliam na realização deste Nanodegree
+## P2 - Site de Portifólio
+Código html, css e imagens para exibir o site de portifólio.
+
+# Cursos da Udacity que auxiliam na realização deste Nanodegree
 ## Fundamentos da programação com Python (português)
+## Introdução à Ciência da Computação (português)
+## Linux Command Line Basics (inglês)
+## Networking for Web Developers (inglês)
 ## Writing READMEs (português)
-## Controle de Versão com Git (inglês)
+## Version Control with Git (inglês)
