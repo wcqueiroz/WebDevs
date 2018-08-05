@@ -14,10 +14,15 @@ Conhecimento em lógica de programação.
 # Conhecimento desejáveis para fazer o Cursos
 HTML, CSS, JavaScript, Python e Git.
 
+# Ferramentas utilizadas neste Curso
+## GitHub
+GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Esta disponível em https://github.com.
+
 # Projetos
 ## P1 - Site de Trailer de Filmes
 Código server-side para exibir o Título, o Poster e o Trailers de alguns filmes.
 
-# Cursos da Udacity que auxiliam na realização deste Nanodegree
-## Fundamentos da programação com Python
-## Writing READMEs
+# Cursos gratuitos da Udacity que auxiliam na realização deste Nanodegree
+## Fundamentos da programação com Python (português)
+## Writing READMEs (português)
+## Controle de Versão com Git (inglês)
